@@ -1,0 +1,16 @@
+---
+title: "Josiah Cox"
+about:
+  template: jolla
+  image: mephoto.png
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Seiso-uark
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/josiah-cox-aa523a406
+    - icon: envelope
+      text: Contact
+      href: mailto:jc426@uark.edu
+---
