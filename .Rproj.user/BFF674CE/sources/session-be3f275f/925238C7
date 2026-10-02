@@ -3,7 +3,7 @@
     "path": "C:/Users/Admin/OneDrive/class/bioproject/projects.qmd",
     "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "1180061688",
+    "hash": "2828074324",
     "contents": "",
     "dirty": false,
     "created": 1790957742404.0,
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "165:0"
+        "rmdVisualModeLocation": "177:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790958057,
+    "lastKnownWriteTime": 1790959133,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790958057742,
+    "last_content_update": 1790959133573,
     "read_only": false,
     "read_only_alternatives": []
 }

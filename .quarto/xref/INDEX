@@ -1,14 +1,20 @@
 {
   "about.qmd": {
-    "about.html": "ccf64c4d"
+    "about.html": "e022e08b"
   },
   "index.qmd": {
-    "index.html": "7564be6f"
+    "index.html": "592d83b4"
   },
   "posts/post-with-code/index.qmd": {
-    "index.html": "d933fcea"
+    "index.html": "ef5477f2"
   },
   "posts/welcome/index.qmd": {
-    "index.html": "9e2922bf"
+    "index.html": "6777a2f7"
+  },
+  "projects.qmd": {
+    "projects.html": "4110a3ff"
+  },
+  "Resume.qmd": {
+    "Resume.html": "d70d980f"
   }
 }
