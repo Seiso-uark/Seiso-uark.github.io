@@ -3,7 +3,7 @@ title: "Flight Reliability at XNA: Data Visualization Team Project"
 author: "Derek Camacho, Easton Contorno, Josiah Cox, Reese Martin, and Isaac Shilling"
 image: title.png
 ---
-
+![XNA Flight Delays](title.png)
 ## Team Members
 
 - [Derek Camacho](https://derek-c85.github.io/)
@@ -12,7 +12,7 @@ image: title.png
 - [Reese Martin](https://reesemartin24.github.io/)
 - \[Isaac Shilling\]
 
-![XNA Flight Delays](title.png)
+
 
 ## The Data Set
 
