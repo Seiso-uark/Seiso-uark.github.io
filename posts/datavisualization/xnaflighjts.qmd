@@ -6,11 +6,13 @@ image: title.png
 
 ## Team Members
 
-- \[Derek Camacho\] (<https://derek-c85.github.io/)>
-- \[Easton Contorno\] (<https://ejc017.github.io/posts/xna-flight-delays/)>
-- \[Josiah Cox\] ()
-- \[Reese Martin\] (<https://reesemartin24.github.io/posts/Data%20Visualization/)>
+- [Derek Camacho](https://derek-c85.github.io/)
+- [Easton Contorno](https://ejc017.github.io/)
+- [Josiah Cox](https://seiso-uark.github.io)
+- [Reese Martin](https://reesemartin24.github.io/)
 - \[Isaac Shilling\]
+
+![XNA Flight Delays](title.png)
 
 ## The Data Set
 
@@ -20,7 +22,7 @@ Our data comes form the US Department of Transportation's Bureau of Transportati
 
 **Why it's interesting:** People traveling would want to know whether delays have a relation to certain days or are random. A spike can point to an outside cause, such as winter weather, rather than a consistent problem.
 
-**How we used Excel:** On the Plots sheet, we grouped the 898 recorded departure delays by date and averaged them for each day. Negative values mean the flight left early.
+**How we used Excel:** On the Plots sheet, we grouped the 898 recorded departure delays by date and averaged them for each day to visualize the data. Negative values mean the flight left early.
 
 **How the slide was developed:** Because this is about how the flight delays change over time, we used a line chart with zero shown to show when departures have clear outliers such as around the early weeks of january, and also shows negative numbers so the visual shows early departures.
 

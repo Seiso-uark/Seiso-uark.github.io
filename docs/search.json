@@ -11,14 +11,14 @@
     "href": "posts/datavisualization/xnaflighjts.html",
     "title": "Flight Reliability at XNA: Data Visualization Team Project",
     "section": "",
-    "text": "[Derek Camacho] (https://derek-c85.github.io/)\n[Easton Contorno] (https://ejc017.github.io/posts/xna-flight-delays/)\n[Josiah Cox] ()\n[Reese Martin] (https://reesemartin24.github.io/posts/Data%20Visualization/)\n[Isaac Shilling]"
+    "text": "Derek Camacho\nEaston Contorno\nJosiah Cox\nReese Martin\n[Isaac Shilling]\n\n\n\n\nXNA Flight Delays"
   },
   {
     "objectID": "posts/datavisualization/xnaflighjts.html#team-members",
     "href": "posts/datavisualization/xnaflighjts.html#team-members",
     "title": "Flight Reliability at XNA: Data Visualization Team Project",
     "section": "",
-    "text": "[Derek Camacho] (https://derek-c85.github.io/)\n[Easton Contorno] (https://ejc017.github.io/posts/xna-flight-delays/)\n[Josiah Cox] ()\n[Reese Martin] (https://reesemartin24.github.io/posts/Data%20Visualization/)\n[Isaac Shilling]"
+    "text": "Derek Camacho\nEaston Contorno\nJosiah Cox\nReese Martin\n[Isaac Shilling]\n\n\n\n\nXNA Flight Delays"
   },
   {
     "objectID": "posts/datavisualization/xnaflighjts.html#the-data-set",
@@ -32,7 +32,7 @@
     "href": "posts/datavisualization/xnaflighjts.html#question-1-how-did-departure-delays-change-over-the-month",
     "title": "Flight Reliability at XNA: Data Visualization Team Project",
     "section": "Question 1: How did departure delays change over the month?",
-    "text": "Question 1: How did departure delays change over the month?\nWhy it’s interesting: People traveling would want to know whether delays have a relation to certain days or are random. A spike can point to an outside cause, such as winter weather, rather than a consistent problem.\nHow we used Excel: On the Plots sheet, we grouped the 898 recorded departure delays by date and averaged them for each day. Negative values mean the flight left early.\nHow the slide was developed: Because this is about how the flight delays change over time, we used a line chart with zero shown to show when departures have clear outliers such as around the early weeks of january, and also shows negative numbers so the visual shows early departures.\n\n\n\nDeparture delays peaked on January 10"
+    "text": "Question 1: How did departure delays change over the month?\nWhy it’s interesting: People traveling would want to know whether delays have a relation to certain days or are random. A spike can point to an outside cause, such as winter weather, rather than a consistent problem.\nHow we used Excel: On the Plots sheet, we grouped the 898 recorded departure delays by date and averaged them for each day to visualize the data. Negative values mean the flight left early.\nHow the slide was developed: Because this is about how the flight delays change over time, we used a line chart with zero shown to show when departures have clear outliers such as around the early weeks of january, and also shows negative numbers so the visual shows early departures.\n\n\n\nDeparture delays peaked on January 10"
   },
   {
     "objectID": "posts/datavisualization/xnaflighjts.html#question-2-which-carriers-canceled-the-highest-share-of-their-flights",
