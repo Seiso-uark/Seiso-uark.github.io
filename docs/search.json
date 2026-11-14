@@ -7,11 +7,53 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/datavisualization/xnaflighjts.html",
+    "href": "posts/datavisualization/xnaflighjts.html",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
     "section": "",
-    "text": "About this blog"
+    "text": "[Derek Camacho] (https://derek-c85.github.io/)\n[Easton Contorno] (https://ejc017.github.io/posts/xna-flight-delays/)\n[Josiah Cox] ()\n[Reese Martin] (https://reesemartin24.github.io/posts/Data%20Visualization/)\n[Isaac Shilling]"
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#team-members",
+    "href": "posts/datavisualization/xnaflighjts.html#team-members",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "",
+    "text": "[Derek Camacho] (https://derek-c85.github.io/)\n[Easton Contorno] (https://ejc017.github.io/posts/xna-flight-delays/)\n[Josiah Cox] ()\n[Reese Martin] (https://reesemartin24.github.io/posts/Data%20Visualization/)\n[Isaac Shilling]"
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#the-data-set",
+    "href": "posts/datavisualization/xnaflighjts.html#the-data-set",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "The Data Set",
+    "text": "The Data Set\nOur data comes form the US Department of Transportation’s Bureau of Transportation Statistics, report of Carrier On-Time performance. We were able to pull this data fromn Janurary 2025 from the Airport near our school which had a data set of 933 flights. Each row is a flight and we inlcuded columns with dates, operating code, delay, arrival delay, cancellation, distance and air time. We pasted this data into excel and gave the columns names via information in the original data and cleaned it with AI to make the flight data sheets. Canceled flights dont have these values so we leave them out of calculations."
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#question-1-how-did-departure-delays-change-over-the-month",
+    "href": "posts/datavisualization/xnaflighjts.html#question-1-how-did-departure-delays-change-over-the-month",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "Question 1: How did departure delays change over the month?",
+    "text": "Question 1: How did departure delays change over the month?\nWhy it’s interesting: People traveling would want to know whether delays have a relation to certain days or are random. A spike can point to an outside cause, such as winter weather, rather than a consistent problem.\nHow we used Excel: On the Plots sheet, we grouped the 898 recorded departure delays by date and averaged them for each day. Negative values mean the flight left early.\nHow the slide was developed: Because this is about how the flight delays change over time, we used a line chart with zero shown to show when departures have clear outliers such as around the early weeks of january, and also shows negative numbers so the visual shows early departures.\n\n\n\nDeparture delays peaked on January 10"
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#question-2-which-carriers-canceled-the-highest-share-of-their-flights",
+    "href": "posts/datavisualization/xnaflighjts.html#question-2-which-carriers-canceled-the-highest-share-of-their-flights",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "Question 2: Which carriers canceled the highest share of their flights?",
+    "text": "Question 2: Which carriers canceled the highest share of their flights?\nWhy it’s interesting: The carrier with the most cancellations is not nessecarily the least reliable, because carriers fly different numbers of flights. Comparing rates instead of counts gives a fairer picture.\nHow we used Excel: For each carrier, we divided the number of cancellations by the number of scheduled departures (OH 20, AA 99, YX 92, MQ 473, OO 162, F9 4, G4 52, UA 31). We sorted the rates from highest to lowest and charted them as a bar chart.\nHow the slide was developed: A bar chart is the natural choice for this type of daya. We ordered the carrier from highest to lowest cancellation rates and put percentage on the axis. then added titles to the sides. This data is rather small sample size so we didnt make outrageous claims with it.\n\n\n\nCancellation rates varied by operating carrier"
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#question-3-how-late-did-flights-usually-arrive",
+    "href": "posts/datavisualization/xnaflighjts.html#question-3-how-late-did-flights-usually-arrive",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "Question 3: How late did flights usually arrive?",
+    "text": "Question 3: How late did flights usually arrive?\nWhy it’s interesting: Averages can hide what most passengers actually experience. A distribution shows whether delays are common or whether a few extreme flights make the numbers look crazy\nHow we used Excel: We built a histogram of the 897 recorded arrival delays. We kept the empty bins and the largest delay (1,810 minutes) so the long tail stays visible. Flights with missing arrival delays were left out.\nHow the slide was developed: The title states that most flights arrived early but a few ran hours late, and the sentence gives the count (575 of 897, or 64%, arrived early). The histogram shows the tall bar near zero and the long stretch to the right.\n\n\n\nMost flights arrived early, but a few ran hours late"
+  },
+  {
+    "objectID": "posts/datavisualization/xnaflighjts.html#question-4-do-longer-flights-spend-more-time-in-the-air",
+    "href": "posts/datavisualization/xnaflighjts.html#question-4-do-longer-flights-spend-more-time-in-the-air",
+    "title": "Flight Reliability at XNA: Data Visualization Team Project",
+    "section": "Question 4: Do longer flights spend more time in the air?",
+    "text": "Question 4: Do longer flights spend more time in the air?\nWhy it’s interesting: This checks whether the data behaves the way we would expect. It also shows the variance in airtime compared to distance between the flights covering the same distance.\nHow we used Excel: We paired distance (miles) with air time (minutes) for each of the 897 flights that had both values, made a scatter plot, and calculated the Pearson correlation which shows a strong positive correlation in r = 0.94\nHow the slide was developed: The best way to show these two variables is with a scatter plot with distacne on the x axis and air time on the Y. Each marker is one flight In the secondary sentence We noted the r value which allows us to make the conclusion in the title\n\n\n\nLonger flights generally spent more time airborne"
   },
   {
     "objectID": "datavisualization/xnaflighjts.html",
@@ -63,6 +105,13 @@
     "text": "Question 4: Do longer flights spend more time in the air?\nWhy it’s interesting: This checks whether the data behaves the way we would expect. It also shows the variance in airtime compared to distance between the flights covering the same distance.\nHow we used Excel: We paired distance (miles) with air time (minutes) for each of the 897 flights that had both values, made a scatter plot, and calculated the Pearson correlation which shows a strong positive correlation in r = 0.94\nHow the slide was developed: The best way to show these two variables is with a scatter plot with distacne on the x axis and air time on the Y. Each marker is one flight In the secondary sentence We noted the r value which allows us to make the conclusion in the title\n\n\n\nLonger flights generally spent more time airborne"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -74,6 +123,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlight Reliability at XNA: Data Visualization Team Project\n\n\n\n\n\n\nDerek Camacho, Easton Contorno, Josiah Cox, Reese Martin, and Isaac Shilling\n\n\n\n\n\n\nNo matching items"
   }
 ]
