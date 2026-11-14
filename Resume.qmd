@@ -1,7 +1,9 @@
 ---
 title: "Resume"
 ---
-<iframe width="800" height="1000"
-src="ResumeCox.pdf">
+
+<iframe width="800" height="1000" src="ResumeCox.pdf">
+
 </iframe>
----
+
+------------------------------------------------------------------------
